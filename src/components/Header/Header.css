@@ -1,0 +1,108 @@
+.top-banner{
+    background-image: url(../../bannerbackground.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 60px;
+    }
+    .header{
+        align-items: center;
+        padding: 10%;
+    }
+    
+    .search-box input{
+        height: 40px;
+        width: 400px;
+        border: none;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+        padding-left: 30px;
+    }
+    
+    .search-button{
+        background-color: rgb(252, 0, 55);
+        color: white;
+        height: 40px; 
+        width: 100px;
+        border: none;
+        padding: 5px 15px; 
+        border-radius: 20px;
+        font-size: 14px;
+    }
+    
+    .header-line{
+        display: inline;
+        margin: 10px 100px;
+    
+    }
+    .header-line img{
+        height: 60px;
+        float: left;
+        margin-top: 10px;
+        margin-left: 60px;
+    }
+    .header-line nav{
+        float: right;
+        font-size: 24px;
+        margin-top: 10px;
+        margin-right: 60px;
+    }
+    .header-line nav a{
+        margin-top: 20px;
+        margin-right: 30px;
+        color: black;
+        padding: 5px 10px;
+        vertical-align: middle;
+    }
+    .header-line nav a:hover{
+        background-color: lightgray;
+        transition: width 0.5s, background-color 0.5s;
+        text-decoration: none;
+        border-radius: 10px;
+    }
+    
+    /*---------------------------Lower navbar--------------------------------*/
+    .navbar-container {
+        text-align: center;
+    }
+    
+    .navbar-container ul {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    
+    .navbar-container ul li {
+        display: inline-block;
+        font-size: 16px;
+    }
+    .navbar-container ul li.active-link a{
+        color: red;
+    }
+    
+    .navbar-container ul li a {
+        color: black;
+        text-decoration: none;
+        display: inline-block;	
+        padding: 5px;
+        transition: color 0.5s;
+    }
+    
+    .navbar-container ul li .underline {
+        height: 3px;
+        background-color: transparent;
+        width: 0%;
+        transition: width 0.2s, background-color 0.5s;
+        border-radius: 5px;
+    }
+    
+    .navbar-container ul li.active-link .underline {
+        width: 100%;
+        background-color:red;
+    }
+    
+    
+    .navbar-container ul li:hover .underline {
+        background-color: red;
+        width: 100%;
+    }
+    
