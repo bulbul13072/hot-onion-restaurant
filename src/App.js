@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import {
   BrowserRouter as Router,
@@ -13,19 +12,14 @@ import "firebase/firestore";
 import firebaseConfig from './firebase.config.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/Header/Header';
-
-
-
-
-firebase.initializeApp(firebaseConfig);
-
-
+import Breakfast from './components/Breakfast/Breakfast';
 
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
+      <Breakfast></Breakfast>
      
     </div>
   );

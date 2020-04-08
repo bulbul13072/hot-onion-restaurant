@@ -21,25 +21,25 @@ const Header = () => {
             <section className="top-banner">
                 <div className="header">
                     <h1>Best Quality Food is Waiting for Your Belly</h1>
-                    <div class="search-box">
+                    <div className="search-box">
                         <input type="text" placeholder="Search food items" />
                         <span><button type="submit" className="search-button">Search</button></span>
                     </div>   
                 </div>             
             </section>
-            <div class="navbar-container">
+            <div className="navbar-container">
                 <ul>
-                    <li class="nav-link">
+                    <li className="nav-link">
                         <a href="#">Breakfast</a>
-                        <div class="underline"></div>
+                        <div className="underline"></div>
                     </li>
-                    <li class="nav-link active-link">
+                    <li className="nav-link active-link">
                         <a href="#">Lunch</a>
-                        <div class="underline"></div>
+                        <div className="underline"></div>
                     </li>
-                    <li class="nav-link">
+                    <li className="nav-link">
                         <a href="#">Dinner</a>
-                        <div class="underline"></div>
+                        <div className="underline"></div>
                     </li>
                 </ul>
             </div>

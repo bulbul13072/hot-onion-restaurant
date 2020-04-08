@@ -1,0 +1,129 @@
+{
+  "food" : [ {
+    "Name" : "Bagel and Cream Cheese",
+    "category" : "Breakfast",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Breakfast%2Fbreakfast2.png?alt=media&token=a7db892a-e15c-46d1-8cbd-6251eb585d69",
+    "price" : 6.99
+  }, {
+    "Name" : "Breakfast Sandwich",
+    "category" : "Breakfast",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Breakfast%2Fbreakfast2.png?alt=media&token=a7db892a-e15c-46d1-8cbd-6251eb585d69",
+    "price" : 9.99
+  }, {
+    "Name" : "Baked Chicken",
+    "category" : "Breakfast",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Breakfast%2Fbreakfast3.png?alt=media&token=42edc0b5-8543-4193-b412-d215dea4700c",
+    "price" : 10.99
+  }, {
+    "Name" : "Eggs Benedict",
+    "category" : "Breakfast",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Breakfast%2Fbreakfast4.png?alt=media&token=d5f43b55-a465-415d-be22-fb6761698ed0",
+    "price" : 8.99
+  }, {
+    "Name" : "Toast Croissant Fried Egg",
+    "category" : "Breakfast",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Breakfast%2Fbreakfast5.png?alt=media&token=faf56f1a-0274-44b7-986c-e419daf12d5f",
+    "price" : 19.99
+  }, {
+    "Name" : "Full Breakfast Fried Egg Toast Brunch",
+    "category" : "Breakfast",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Breakfast%2Fbreakfast6.png?alt=media&token=d20a1aae-097c-4d0a-991f-279a27900e7e",
+    "price" : 3.99
+  }, {
+    "Name" : "Healthy Meal Plan",
+    "category" : "Lunch",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Launch%2Flunch1.png?alt=media&token=09619ccd-37e3-4a9b-a63a-df484f6ac5b6",
+    "price" : 23.99
+  }, {
+    "Name" : "Fried Chicken Bento",
+    "category" : "Lunch",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Launch%2Flunch2.png?alt=media&token=cbf09966-ba7b-4825-b2e0-dd6ea850c68b",
+    "price" : 9.99
+  }, {
+    "Name" : "Tarragon-Rubbed-Salmon",
+    "category" : "Lunch",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Launch%2Flunch3.png?alt=media&token=3da969a5-ec00-4828-8725-344fa7d84a33",
+    "price" : 6.99
+  }, {
+    "Name" : "Indian Lunch",
+    "category" : "Lunch",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Launch%2Flunch4.png?alt=media&token=4704ff62-acc3-467e-ae0e-5c6d65b9f33a",
+    "price" : 8.99
+  }, {
+    "Name" : "Beef Steak",
+    "category" : "Lunch",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Launch%2Flunch5.png?alt=media&token=9e4ecaf8-c856-4e0c-b991-57a1fecaa293",
+    "price" : 15.99
+  }, {
+    "Name" : "Honey-Soy-Glazed Salmon With Peppers",
+    "category" : "Lunch",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Launch%2Flunch5.png?alt=media&token=9e4ecaf8-c856-4e0c-b991-57a1fecaa293",
+    "price" : 7.99
+  }, {
+    "Name" : "Salmon With Grapefruit and Lentil Salad",
+    "category" : "Dinner",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Dinner%2Fdinner1.png?alt=media&token=12cdb4b5-5b0a-4e11-8d9e-c3a5fe5102ec",
+    "price" : 9.99
+  }, {
+    "Name" : "Lemony Salmon Piccata",
+    "category" : "Dinner",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Dinner%2Fdinner2.png?alt=media&token=3d3bf7e1-edb8-46bc-8c21-6d1efbf070e4",
+    "price" : 10.99
+  }, {
+    "Name" : "Pork Tenderloin With Quinoa Pilaf",
+    "category" : "Dinner",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Dinner%2Fdinner3.png?alt=media&token=917e6c98-330f-439b-920c-8c85812196d5",
+    "price" : 12.99
+  }, {
+    "Name" : "French Fries With Cheese",
+    "category" : "Dinner",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Dinner%2Fdinner4.png?alt=media&token=76581955-27d0-4fb3-90c0-6c08d30d1e9a",
+    "price" : 8.99
+  }, {
+    "Name" : "Garlic Butter Baked Salmon",
+    "category" : "Dinner",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Dinner%2Fdinner5.png?alt=media&token=bd076c60-1fde-4cda-88d6-a704a5e17c5a",
+    "price" : 6.99
+  }, {
+    "Name" : "Baked Chicken",
+    "category" : "Dinner",
+    "description" : "How We dream About Our Future",
+    "detail" : "It is a common food pairing in American cuisine, the cuisine of New York City and Philadelphia, and American Jewish cuisine, consisting in its basic form of an open-faced sandwich made of a bagel spread with cream cheese.",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Dinner%2Fdinner6.png?alt=media&token=7ca7f205-9bb8-4faf-826e-3e520b738a84",
+    "price" : 9.99
+  } ]
+}
