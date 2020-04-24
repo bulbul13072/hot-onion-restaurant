@@ -12,15 +12,14 @@ import "firebase/firestore";
 import firebaseConfig from './firebase.config.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/Header/Header';
-import Breakfast from './components/Breakfast/Breakfast';
+import Foods from './components/Foods/Foods';
 
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
-      <Breakfast></Breakfast>
-     
+      <Foods></Foods>
     </div>
   );
 }

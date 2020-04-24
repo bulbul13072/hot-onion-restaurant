@@ -1,5 +1,4 @@
-{
-  "food" : [ {
+[ {
     "Name" : "Bagel and Cream Cheese",
     "category" : "Breakfast",
     "description" : "How We dream About Our Future",
@@ -126,4 +125,3 @@
     "image" : "https://firebasestorage.googleapis.com/v0/b/hot-onion-restaurant-4985c.appspot.com/o/Dinner%2Fdinner6.png?alt=media&token=7ca7f205-9bb8-4faf-826e-3e520b738a84",
     "price" : 9.99
   } ]
-}

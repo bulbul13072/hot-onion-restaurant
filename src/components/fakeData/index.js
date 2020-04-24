@@ -1,3 +1,4 @@
+import React from 'react';
 import foods from './data.json';
 
 const fakeData = [...foods];
